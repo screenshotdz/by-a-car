@@ -24,4 +24,4 @@
 ## **هيكل المشروع**
 clik here to continue:
 ## رابط المشروع
-[شاهد الموقع هنا](https://<screenshotdz>.github.io/<by_a_car/khasni1>)
+[شاهد الموقع هنا](https://<screenshotdz>.github.io/<by_a_car>)
