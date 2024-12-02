@@ -1,4 +1,4 @@
-clik here to continue: khasni1.html
+
 
 # إدارة بيانات السيارات
 
@@ -22,3 +22,6 @@ clik here to continue: khasni1.html
 ---
 
 ## **هيكل المشروع**
+clik here to continue:
+## رابط المشروع
+[شاهد الموقع هنا](https://<screenshotdz>.github.io/<by_a_car/khasni1>)
